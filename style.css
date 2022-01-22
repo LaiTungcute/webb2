@@ -1,0 +1,48 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 16px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 50px 10px;
+    border: 2px solid red;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    padding: 20px;
+    border-right: 2px solid red;
+}
+
+.bo h1 {
+    color: brown;
+}
+
+.phongCanh img{
+    width: 24rem;
+    height: 12rem;
+}
+
+.newYear {
+    font-size: 12px;
+}
+
+.newYear img {
+    width: 20em;
+    height: 10em;
+}
